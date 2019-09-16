@@ -20,3 +20,6 @@ System.Globalization
 ChoETL
 Newtonsoft.Json
 Newtonsoft.Json.Linq
+
+
+Please note, .vs/ has been added to the .gitignore file to allow committing to occur. Please adjust accordingly.
