@@ -1,0 +1,11 @@
+D:\coding-projects\rain-prediction\RainPrediction\RainPrediction\bin\Debug\netcoreapp2.1\RainPrediction.deps.json
+D:\coding-projects\rain-prediction\RainPrediction\RainPrediction\bin\Debug\netcoreapp2.1\RainPrediction.runtimeconfig.json
+D:\coding-projects\rain-prediction\RainPrediction\RainPrediction\bin\Debug\netcoreapp2.1\RainPrediction.runtimeconfig.dev.json
+D:\coding-projects\rain-prediction\RainPrediction\RainPrediction\bin\Debug\netcoreapp2.1\RainPrediction.dll
+D:\coding-projects\rain-prediction\RainPrediction\RainPrediction\bin\Debug\netcoreapp2.1\RainPrediction.pdb
+D:\coding-projects\rain-prediction\RainPrediction\RainPrediction\obj\Debug\netcoreapp2.1\RainPrediction.csprojAssemblyReference.cache
+D:\coding-projects\rain-prediction\RainPrediction\RainPrediction\obj\Debug\netcoreapp2.1\RainPrediction.csproj.CoreCompileInputs.cache
+D:\coding-projects\rain-prediction\RainPrediction\RainPrediction\obj\Debug\netcoreapp2.1\RainPrediction.AssemblyInfoInputs.cache
+D:\coding-projects\rain-prediction\RainPrediction\RainPrediction\obj\Debug\netcoreapp2.1\RainPrediction.AssemblyInfo.cs
+D:\coding-projects\rain-prediction\RainPrediction\RainPrediction\obj\Debug\netcoreapp2.1\RainPrediction.dll
+D:\coding-projects\rain-prediction\RainPrediction\RainPrediction\obj\Debug\netcoreapp2.1\RainPrediction.pdb
